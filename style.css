@@ -1,0 +1,12 @@
+body {
+background-color: rgba(170, 170, 245, 0.774);
+color: black;
+text-align: center;
+font-size: 40px;
+font-family: 'Times New Roman', Times, serif;
+box-shadow: 50px;
+}
+
+#cachorro {
+border-radius: 20px;
+}
